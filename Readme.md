@@ -10,7 +10,7 @@ Los ejercicios están divididos en dos partes según las instrucciones de la act
 
 | Archivo | Descripción | Parámetros usados | Resultado principal |
 | :--- | :--- | :--- | :--- |
-| `[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/emartinex/Ejercicios_Descenso_Gradiente/blob/main/Ejercicio_1_Descenso_Gradiente.ipynb)` | Función cuadrática en 2 variables en forma matricial y analítica. | $\gamma = 0.15$, $x_0 = (0, 0)$ | Converge en 24 iteraciones a $x^* = (-2, 1)$ con $f(x^*) = -13$. |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/emartinex/Ejercicios_Descenso_Gradiente/blob/main/Ejercicio_1_Descenso_Gradiente.ipynb) | Función cuadrática en 2 variables en forma matricial y analítica. | $\gamma = 0.15$, $x_0 = (0, 0)$ | Converge en 24 iteraciones a $x^* = (-2, 1)$ con $f(x^*) = -13$. |
 | `Ejercicio_2_Descenso_Gradiente.ipynb` | Función cuadrática en 3 variables en forma matricial y analítica. | $\gamma = 0.25$, $x_0 = (1, 0, 1)$ | Converge en 53 iteraciones a $x^* = (-3, 2, -2)$ con $f(x^*) = -20.5$. |
 | `Ejercicio_3_Descenso_Gradiente_Momento.ipynb` | Descenso con momento en una variable para $f(x) = \frac{1}{4}x^4 - 2x^2$. | $\gamma = 0.05$, $\alpha = 0.5$, $x_0 = 1$ | Converge en 46 iteraciones al mínimo en $x^* = 2$ con $f(x^*) = -4$. |
 | `Ejercicio_4_Descenso_Gradiente.ipynb` | Optimización en 4 variables con selección heurística de parámetros. | $\gamma = 0.03$, $x_0 = (0, 0, 0, 0)$ | Converge en 36 iteraciones a $x^* = (1, 1, 1, 1)$ con $f(x^*) = -30$. |
