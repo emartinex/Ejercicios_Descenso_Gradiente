@@ -8,7 +8,7 @@ Los ejercicios están divididos en dos partes según las instrucciones de la act
 
 ## Contenido del repositorio
 
-| Archivo | Enlace | Descripción | Parámetros usados | Resultado principal |
+| Archivo | Enlace Google Colab | Descripción | Parámetros usados | Resultado principal |
 | :--- | :--- | :--- | :--- | :--- |
 |`Ejercicio_1_Descenso_Gradiente.ipynb`|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartinex/Ejercicios_Descenso_Gradiente/blob/main/Ejercicio_1_Descenso_Gradiente.ipynb)  | Función cuadrática en 2 variables en forma matricial y analítica. | $\gamma = 0.15$, $x_0 = (0, 0)$ | Converge en 24 iteraciones a $x^* = (-2, 1)$ con $f(x^*) = -13$. |
 | `Ejercicio_2_Descenso_Gradiente.ipynb` |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/emartinex/Ejercicios_Descenso_Gradiente/blob/main/Ejercicio_2_Descenso_Gradiente.ipynb)| Función cuadrática en 3 variables en forma matricial y analítica. | $\gamma = 0.25$, $x_0 = (1, 0, 1)$ | Converge en 53 iteraciones a $x^* = (-3, 2, -2)$ con $f(x^*) = -20.5$. |
